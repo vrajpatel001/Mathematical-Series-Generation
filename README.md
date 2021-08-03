@@ -21,7 +21,7 @@
 ## Pi value generation:
 - Using 8051
 - Using lookup table approach
-- ![](https://github.com/vrajpatel001/Mathematical-Series-Generation/blob/master/Resourse/Vira_Num_Generation.gif?raw=true)
+- ![](https://github.com/vrajpatel001/Mathematical-Series-Generation/blob/master/Resourse/Pi_Digits_Generation.gif?raw=true)
 
 ---
 
